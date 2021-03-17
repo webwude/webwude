@@ -2,7 +2,7 @@
 - 👀 I’m interested in python at the moment mainly
 - 🌱 I’m currently learning stuff about Microsoft Azure
 - 💞️ I’m looking to collaborate on various projects and initiatives as nightscout for my daughter
-- 📫 How to reach me - here - via mail
+- 📫 How to reach me - here - webwude @ take whatever you want (gmail, yahoo, ao, live.de)
 
 <!---
 webwude/webwude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
